@@ -31,17 +31,17 @@ http://www.sdss.org/
 * Applying a XGBoost Classifier
 * Calculating F1-Score, Precision, and Recall.
 
-***Follow [notebook]() for more!!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-Sloan_Digital_Sky_Survey_Classification_XG_Boost/blob/main/Sloan%20Digital%20Sky%20Survey%20Classification%20XG%20Boost.ipynb) for more!!***
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Sloan_Digital_Sky_Survey_Classification_XG_Boost/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Sloan_Digital_Sky_Survey_Classification_XG_Boost/blob/main/Images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/ML-Sloan_Digital_Sky_Survey_Classification_XG_Boost/blob/main/Images/3.png)
 
-![Image4]()
+![Image4](https://github.com/Anuragtsl/ML-Sloan_Digital_Sky_Survey_Classification_XG_Boost/blob/main/Images/4.png)
 
 
 #Njoy!
