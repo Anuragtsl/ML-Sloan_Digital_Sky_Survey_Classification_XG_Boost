@@ -2,11 +2,11 @@
 
 I have created Machine Learning Model With XGBoost Classifier for Sloan Digital Sky Survey Predictions.
 
-In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matplotlib](), [Seaborn](), [Sklearn]() and much more for Analysis, Vizualization and Model Development.
+In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Sklearn](https://scikit-learn.org/) and much more for Analysis, Vizualization and Model Development.
 
-I've used [Jupyter Notebook]() for coding!
+I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
-**Download the dataset from [here]()!**
+**Download the dataset from [here](https://github.com/Anuragtsl/ML-Sloan_Digital_Sky_Survey_Classification_XG_Boost/blob/main/Skyserver_SQL2_27_2018%206_51_39%20PM.csv)!**
 
 # About Data
 
